@@ -19,6 +19,7 @@ Your application needs to read the attached AddressBook file and answer the foll
 Some insights into what we'll be looking for (and what we will not):
 
 - Feel free to use any dependency management and build tools eg maven or gradle
+- Please do not use database, we are more interested in your Java skills than your SQL skills
 - Feel free to commit as often as you'd like. The more commits the better! Please commit at least once within the first hour
 - It's better to complete 1 task than to start 3
 - Feel free to use any java libraries you feel appropriate
