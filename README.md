@@ -1,4 +1,4 @@
-# Gumtree coding challenge
+# Technical Assignment for Backend
 
 ## The task
 
